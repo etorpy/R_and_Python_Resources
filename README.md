@@ -21,3 +21,5 @@ R for SAS and SPSS Users, 2nd Ed (2011), R. Muenchen
 https://r4stats.com/books/free-version/  
 https://r4stats.com/books/downloads/
 
+R for Data Science (2017) - Hadley Wickham (O’Reilly)  
+https://r4ds.had.co.nz/
