@@ -10,8 +10,9 @@ https://github.com/wesm/pydata-book
 Pandas 1.x Cookbook, 2nd Ed (2020) M. Harrison, T. Petrou [code repository]  
 https://github.com/PacktPublishing/Pandas-Cookbook-Second-Edition  
 
-Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow, 2nd Ed (2019), A. Géron  
+Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow, 2nd Ed (2019), A. Géron [code repository]  
 https://github.com/ageron/handson-ml2  
+  
 
 
 <B>R On-line Books with Code</B>
