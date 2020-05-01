@@ -5,11 +5,13 @@ This will be a work-in-progress.  The most important assets in this collection w
 <B>Python Code Repositories - Pandas</B>
 
 Python for Data Analysis 2nd, Ed (2017) W. McKinney [code repository]  
-https://github.com/wesm/pydata-book
+https://github.com/wesm/pydata-book  
 
 Pandas 1.x Cookbook, 2nd Ed (2020) M. Harrison, T. Petrou [code repository]  
-https://github.com/PacktPublishing/Pandas-Cookbook-Second-Edition
-  
+https://github.com/PacktPublishing/Pandas-Cookbook-Second-Edition  
+
+Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow, 2nd Ed (2019), A. Géron  
+https://github.com/ageron/handson-ml2  
 
 
 <B>R On-line Books with Code</B>
