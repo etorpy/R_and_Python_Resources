@@ -2,6 +2,12 @@
 
 This will be a work-in-progress.  The most important assets in this collection will be links to tutorials and code repositories.
 
+<B>Python Online Books and Tutorials (with code)</B>
+
+Chris Albon - Python Basics & Data Wrangling  
+https://chrisalbon.com/#python  
+  
+
 <B>Python Code Repositories - Pandas</B>
 
 Python for Data Analysis 2nd, Ed (2017) W. McKinney [code repository]  
@@ -15,7 +21,7 @@ https://github.com/ageron/handson-ml2
   
 
 
-<B>R On-line Books with Code</B>
+<B>R Online Books and Tutorials (with code)/B>
 
 R Cookbook, 2nd Ed (2019), Long & Teetor (OReilly)  
 https://rc2e.com/
