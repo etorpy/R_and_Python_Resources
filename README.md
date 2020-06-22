@@ -44,7 +44,7 @@ https://github.com/chrisalbon/code_r
 
 **Statistics for Data Scientists resources**
 
-Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python
+Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python  
 https://github.com/gedeck/practical-statistics-for-data-scientists  
 
 
