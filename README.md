@@ -29,7 +29,9 @@ R Cookbook, 2nd Ed (2019), Long & Teetor (OReilly)
 https://rc2e.com/
 
 R Graphics Cookbook (2019), 2nd Ed, Winston Chang
+
 https://r-graphics.org/
+
 install.packages("gcookbook")
 
 R for SAS and SPSS Users, 2nd Ed (2011), R. Muenchen  
