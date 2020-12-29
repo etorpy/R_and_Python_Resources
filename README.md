@@ -28,6 +28,11 @@ https://github.com/chrisalbon/code_py
 R Cookbook, 2nd Ed (2019), Long & Teetor (OReilly)  
 https://rc2e.com/
 
+R Graphics Cookbook (2019), 2nd Ed, Winston Chang
+https://r-graphics.org/
+the gcookbook package contains data sets for many of the examples in the R Graphics Cookbook (2019), 2nd Ed
+install.packages("gcookbook")
+
 R for SAS and SPSS Users, 2nd Ed (2011), R. Muenchen  
 https://r4stats.com/books/free-version/  
 https://r4stats.com/books/downloads/
