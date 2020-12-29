@@ -30,7 +30,6 @@ https://rc2e.com/
 
 R Graphics Cookbook (2019), 2nd Ed, Winston Chang
 https://r-graphics.org/
-the gcookbook package contains data sets for many of the examples in the R Graphics Cookbook (2019), 2nd Ed
 install.packages("gcookbook")
 
 R for SAS and SPSS Users, 2nd Ed (2011), R. Muenchen  
