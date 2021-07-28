@@ -4,7 +4,7 @@ This will be a work-in-progress.  The most important assets in this collection w
 
 **Python Online Books and Tutorials (with code)**
 
-Python Data Science Handbook (2016) J. VanderPlas
+Python Data Science Handbook (2016) J. VanderPlas  
 https://jakevdp.github.io/PythonDataScienceHandbook/
 
 Chris Albon - Python Basics & Data Wrangling  
