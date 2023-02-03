@@ -43,7 +43,8 @@ https://r4stats.com/books/downloads/
 
 R for Data Science (2017) - Hadley Wickham (O’Reilly)  
 https://r4ds.had.co.nz/  
-
+R for Data Science, 2nd Ed (2023) - Hadley Wickham (O’Reilly)
+https://r4ds.hadley.nz/
 
 **R Code Repositories**
 
