@@ -33,10 +33,8 @@ https://github.com/chrisalbon/code_py
 R Cookbook, 2nd Ed (2019), Long & Teetor (OReilly)  
 https://rc2e.com/
 
-R Graphics Cookbook (2019), 2nd Ed, Winston Chang
-
-https://r-graphics.org/
-
+R Graphics Cookbook (2019), 2nd Ed, Winston Chang  
+https://r-graphics.org/  
 install.packages("gcookbook")
 
 R for SAS and SPSS Users, 2nd Ed (2011), R. Muenchen  
@@ -45,7 +43,7 @@ https://r4stats.com/books/downloads/
 
 R for Data Science (2017) - Hadley Wickham (O’Reilly)  
 https://r4ds.had.co.nz/  
-R for Data Science, 2nd Ed (2023) - Hadley Wickham (O’Reilly)
+R for Data Science, 2nd Ed (2023) - Hadley Wickham (O’Reilly)  
 https://r4ds.hadley.nz/
 
 **R Code Repositories**
