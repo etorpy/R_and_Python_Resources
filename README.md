@@ -4,6 +4,14 @@
 
 This will be a work-in-progress.  The most important assets in this collection will be links to tutorials and code repositories.
 
+**Copilot for code generation**
+
+GitHub Copilot: Fly With Python at the Speed of Thought  
+https://realpython.com/github-copilot-python/  
+
+How to set up VSCode for R  
+https://www.infoworld.com/video/110179/how-to-set-up-vscode-for-r  
+
 **Python Online Books and Tutorials (with code)**
 
 Python Data Science Handbook (2016) J. VanderPlas  
