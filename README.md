@@ -1,8 +1,6 @@
 # R_and_Python_Resources
 
-[EXPLAIN THE UPCOMMING JUPYTER NOTEBOOK]
-
-This will be a work-in-progress.  The most important assets in this collection will be links to tutorials and code repositories.
+This repository will start with a notebook titled "R Programming for SPSS Users" and will include basic statistical analysis tasks written in R.  Other important resources will include the links to tutorials and code repositories in this README.md file.
 
 **Copilot for code generation**
 
