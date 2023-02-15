@@ -18,7 +18,11 @@ https://jakevdp.github.io/PythonDataScienceHandbook/
 Chris Albon - Python Basics & Data Wrangling  
 https://chrisalbon.com/#python  
   
-
+Web site and YouTube videos by Sentdex (very good)  
+https://pythonprogramming.net/  
+https://www.youtube.com/@sentdex  
+   
+   
 **Python Code Repositories**
 
 Python for Data Analysis 2nd, Ed (2017) W. McKinney  
