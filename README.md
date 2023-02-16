@@ -1,4 +1,4 @@
-# R_and_Python_Resources
+# R and Python Resources
 
 This repository will start with a notebook titled "R Programming for SPSS Users" and will include basic statistical analysis tasks written in R.  Other important resources will include the links to tutorials and code repositories in this README.md file.  
 
