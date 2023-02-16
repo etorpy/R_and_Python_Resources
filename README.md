@@ -1,6 +1,6 @@
 # R_and_Python_Resources
 
-This repository will start with a notebook titled "R Programming for SPSS Users" and will include basic statistical analysis tasks written in R.  Other important resources will include the links to tutorials and code repositories in this README.md file.
+This repository will start with a notebook titled "R Programming for SPSS Users" and will include basic statistical analysis tasks written in R.  Other important resources will include the links to tutorials and code repositories in this README.md file.  
 
 **Copilot for code generation**
 
@@ -49,7 +49,11 @@ install.packages("gcookbook")
 
 R for SAS and SPSS Users, 2nd Ed (2011), R. Muenchen  
 https://r4stats.com/books/free-version/  
-https://r4stats.com/books/downloads/
+https://r4stats.com/books/downloads/  
+
+An Introduction to Statistical Learning, 2nd Ed (2021), G. James et al  
+https://www.statlearning.com/  
+https://www.statlearning.com/resources-second-edition  
 
 R for Data Science (2017) - Hadley Wickham (O’Reilly)  
 https://r4ds.had.co.nz/  
