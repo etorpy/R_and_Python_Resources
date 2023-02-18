@@ -55,10 +55,16 @@ An Introduction to Statistical Learning, 2nd Ed (2021), G. James et al
 https://www.statlearning.com/  
 https://www.statlearning.com/resources-second-edition  
 
+Applied Predictive Modeling (2013), M. Kuhn & K. Johnson  
+Uses the Caret and AppliedPredictiveModeling packages  
+https://appliedpredictivemodeling.com/  
+https://github.com/cran/AppliedPredictiveModeling  
+NOTE: the book does not appear to be freely available for download  
+
 R for Data Science (2017) - Hadley Wickham (O’Reilly)  
 https://r4ds.had.co.nz/  
 R for Data Science, 2nd Ed (2023) - Hadley Wickham (O’Reilly)  
-https://r4ds.hadley.nz/
+https://r4ds.hadley.nz/  
 
 **R Code Repositories**
 
