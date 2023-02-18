@@ -40,16 +40,16 @@ https://github.com/chrisalbon/code_py
 
 **R Online Books and Tutorials (with code)**
 
+R for SAS and SPSS Users, 2nd Ed (2011), R. Muenchen  
+https://r4stats.com/books/free-version/  
+https://r4stats.com/books/downloads/  
+
 R Cookbook, 2nd Ed (2019), Long & Teetor (OReilly)  
 https://rc2e.com/
 
 R Graphics Cookbook (2019), 2nd Ed, Winston Chang  
 https://r-graphics.org/  
 install.packages("gcookbook")
-
-R for SAS and SPSS Users, 2nd Ed (2011), R. Muenchen  
-https://r4stats.com/books/free-version/  
-https://r4stats.com/books/downloads/  
 
 An Introduction to Statistical Learning, 2nd Ed (2021), G. James et al  
 https://www.statlearning.com/  
