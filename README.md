@@ -7,6 +7,7 @@ This repository will start with a notebook titled "R Programming for SPSS Users"
 
 GitHub Copilot: Fly With Python at the Speed of Thought  
 https://realpython.com/github-copilot-python/  
+NOTE: officially, GitHub Copilot did not support R as of late Feb 2023  
 
 How to set up VSCode for R  
 https://www.infoworld.com/video/110179/how-to-set-up-vscode-for-r  
