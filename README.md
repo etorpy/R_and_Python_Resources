@@ -1,5 +1,8 @@
 # R and Python Resources
 
+NOTE: the notebook named "Anaconda and R Base experiments" contains instructions for creating an Anaconda environment using R 4.1 with Jupyter Notebooks.
+As of March 2023, Anaconda makes working with R 4.0+ very difficult.
+
 This repository will start with a notebook titled "R Programming for SPSS Users" and will include basic statistical analysis tasks written in R.  Other important resources will include the links to tutorials and code repositories in this README.md file.  
 
 **Copilot for code generation**  
