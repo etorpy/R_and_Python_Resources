@@ -42,6 +42,7 @@ https://github.com/wesm/pydata-book
 Pandas 1.x Cookbook, 2nd Ed (2020) M. Harrison, T. Petrou  
 https://github.com/PacktPublishing/Pandas-Cookbook-Second-Edition  
 
+** NOTE: There is a third edition of this book along with a code repository **
 Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow, 2nd Ed (2019), A. Géron  
 https://github.com/ageron/handson-ml2  
   
