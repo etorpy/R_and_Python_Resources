@@ -21,7 +21,7 @@ NOTE: officially, GitHub Copilot did not support R as of late Feb 2023
 How to set up VSCode for R  
 https://www.infoworld.com/video/110179/how-to-set-up-vscode-for-r  
 
-**Python Online Books and Tutorials (with code)**
+### Python Online Books and Tutorials (with code)
 
 Python Data Science Handbook (2016) J. VanderPlas  
 https://jakevdp.github.io/PythonDataScienceHandbook/
@@ -34,7 +34,7 @@ https://pythonprogramming.net/
 https://www.youtube.com/@sentdex  
    
    
-**Python Code Repositories**
+### Python Code Repositories
 
 Python for Data Analysis 2nd, Ed (2017) W. McKinney  
 https://github.com/wesm/pydata-book  
@@ -50,7 +50,7 @@ Python 3 code snippets for data science (by Chris Albon)
 https://github.com/chrisalbon/code_py
 
 
-**R Online Books and Tutorials (with code)**
+### R Online Books and Tutorials (with code)
 
 R for SAS and SPSS Users, 2nd Ed (2011), R. Muenchen  
 https://r4stats.com/books/free-version/  
@@ -78,7 +78,7 @@ https://r4ds.had.co.nz/
 R for Data Science, 2nd Ed (2023) - Hadley Wickham (O’Reilly)  
 https://r4ds.hadley.nz/  
 
-**R Code Repositories**
+### R Code Repositories
 
 Collection of R Scripts for Reuse (by Chris Albon)  
 https://github.com/chrisalbon/code_r  
