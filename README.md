@@ -1,6 +1,6 @@
 # R and Python Resources
 
-  NOTE: the notebook named "Anaconda and R Base experiments" contains instructions for creating an Anaconda environment using R 4.1 with Jupyter Notebooks.
+NOTE: the notebook named "Anaconda and R Base experiments" contains instructions for creating an Anaconda environment using R 4.1 with Jupyter Notebooks.
 As of March 2023, Anaconda makes working with R 4.0+ very difficult.  
 
 Anaconda Navigator 2.3.1 (the GUI for the Anaconda distribution) had an issue with the default channel not having a version of R newer than 3.6.1.  Updating Anaconda Navigator to 2.4.0 and deleting the default channel and adding a new channel for conda-forge fixed the problem and allowed Anaconda to create a new environment using newer versions of both Python and R (R 4.1.3).
