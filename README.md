@@ -23,6 +23,11 @@ https://www.infoworld.com/video/110179/how-to-set-up-vscode-for-r
 
 ### Python Online Books and Tutorials (with code)
 
+Introduction to Statistical Learning with Applications in Python, 1st Ed (2023), G. James et al  
+https://www.statlearning.com/  
+https://www.statlearning.com/resources-python  
+https://www.statlearning.com/online-course  
+
 Python Data Science Handbook (2016) J. VanderPlas  
 https://jakevdp.github.io/PythonDataScienceHandbook/
 
@@ -63,9 +68,10 @@ R Graphics Cookbook (2019), 2nd Ed, Winston Chang
 https://r-graphics.org/  
 install.packages("gcookbook")
 
-An Introduction to Statistical Learning, 2nd Ed (2021), G. James et al  
+An Introduction to Statistical Learning with Applications in R, 2nd Ed (2021), G. James et al  
 https://www.statlearning.com/  
 https://www.statlearning.com/resources-second-edition  
+https://www.statlearning.com/online-course  
 
 Applied Predictive Modeling (2013), M. Kuhn & K. Johnson  
 Uses the Caret and AppliedPredictiveModeling packages  
