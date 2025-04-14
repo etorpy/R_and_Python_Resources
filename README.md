@@ -44,8 +44,8 @@ https://www.youtube.com/@sentdex
    
 ### Python Code Repositories
 
-Python for Data Analysis 2nd, Ed (2017) W. McKinney  
-https://github.com/wesm/pydata-book  
+Python for Data Analysis 3rd, Ed (2022) W. McKinney  
+https://github.com/wesm/pydata-book/blob/3rd-edition/README.md  
 
 Pandas 1.x Cookbook, 2nd Ed (2020) M. Harrison, T. Petrou  
 https://github.com/PacktPublishing/Pandas-Cookbook-Second-Edition  
