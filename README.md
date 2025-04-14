@@ -31,7 +31,7 @@ https://www.statlearning.com/online-course
 Python Data Science Handbook (2016) J. VanderPlas  
 https://jakevdp.github.io/PythonDataScienceHandbook/
 
-Python for Data Analysis 3rd, Ed (2022) W. McKinney  
+Python for Data Analysis 3rd Ed (2022) W. McKinney  
 https://wesmckinney.com/book/  
 
 Chris Albon - Python Basics & Data Wrangling  
@@ -44,7 +44,7 @@ https://www.youtube.com/@sentdex
    
 ### Python Code Repositories
 
-Python for Data Analysis 3rd, Ed (2022) W. McKinney  
+Python for Data Analysis 3rd Ed (2022) W. McKinney  
 https://github.com/wesm/pydata-book/blob/3rd-edition/README.md  
 
 Pandas 1.x Cookbook, 2nd Ed (2020) M. Harrison, T. Petrou  
